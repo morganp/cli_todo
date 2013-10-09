@@ -1,0 +1,8 @@
+
+If ~/.cli_todo/url does not exist create gist and store url
+
+CLI tasks using Thor
+
+list
+add
+complete/rm
